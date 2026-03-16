@@ -106,13 +106,20 @@ int main(void)
     }
 }
 ```
----
+
+
+
+
 ### OUTPUT
 CASE 1: LED ON 
 <img width="491" height="390" alt="image" src="https://github.com/user-attachments/assets/a0aec29b-a61e-4355-b1d4-6161b5d35fe1" />
 
+
+
 CASE 2: LED OFF
 <img width="469" height="366" alt="image" src="https://github.com/user-attachments/assets/d5634725-3eea-4ded-9a74-5188f8a87454" />
+
+
 
 ### RESULT
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
